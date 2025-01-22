@@ -1,0 +1,102 @@
+.warna1{
+    background-color: #F1EFEF;
+}
+
+.warna2{
+    background-color: #CCC8AA;
+}
+
+.warna3{
+    background-color: #7D7C7C;
+}
+
+
+.warna4{
+    background-color: #191717;
+}
+
+.warna5{
+    background-color: #776B5D;
+}
+
+.warna6{
+    background-color: #27374D;
+}
+
+.warna7{
+    background-color: #526D82;
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/top.jpg');
+}
+
+.highlighted-kategori{
+    height: 250px;
+}
+
+.kategori-laptop-lenovo{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/bglenovo.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-laptop-asus{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/bgasus.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-mouse{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/laptopp.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover{
+    color: #27374D;
+}
+
+.text-harga{
+    font-size: 20px;
+    color: #27374D;
+}
+
+.image-box{
+    height: 200px;
+}
+
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe{
+    background-color: #526D82;
+}
+
+.content-subscribe a{
+    color: white;
+}
+
+.banner2{
+    height: 30vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/top.jpg');
+    background-position: 50% 20%;
+}
+
+.produk-image{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    border: solid gray;
+}
